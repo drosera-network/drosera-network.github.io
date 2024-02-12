@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[433],{5643:e=>{e.exports=JSON.parse('{"label":"drosera","permalink":"/blog/tags/drosera","allTagsPath":"/blog/tags","count":1}')}}]);
