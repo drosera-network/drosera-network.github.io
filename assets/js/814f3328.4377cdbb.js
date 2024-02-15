@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Drosera Raises $1.55 Million to Deliver Unprecedented Decentralized Security Model for Web3","permalink":"/blog/hello-world"}]}')}}]);
